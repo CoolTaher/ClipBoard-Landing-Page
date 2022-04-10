@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/CoolTaher/ClipBoard-Landing-Page.git)
-- Live Site URL: [Add live site URL here](https://cooltaher.github.io/ClipBoard-Landing-Page/)
+- Solution URL: [Solution](https://github.com/CoolTaher/ClipBoard-Landing-Page.git)
+- Live Site URL: [Live Site](https://cooltaher.github.io/ClipBoard-Landing-Page/)
 
 ## My process
 
